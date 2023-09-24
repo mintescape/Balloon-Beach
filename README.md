@@ -13,3 +13,6 @@ My game is designed based on a Udemy course by David McDonald, but I added the s
 gamers of all ages. It features smooth and responsive controls, as well as pleasingly simple art style and sound effects that enhance the overall experience.
 
 So what are you waiting for? Download the game now, and see how long you can go!
+
+Install Instructions:
+1 - Navigate to the game's .apk file located in Ballo
