@@ -15,4 +15,9 @@ gamers of all ages. It features smooth and responsive controls, as well as pleas
 So what are you waiting for? Download the game now, and see how long you can go!
 
 Install Instructions:
-1 - Navigate to the game's .apk file located in Ballo
+
+1 - Navigate to the game's .apk file located in Balloon Beach (mobile)/Builds/test.apk
+
+2 - Use your preferred Android emulator to play the game on PC, or transfer the apk to your Android mobile device and follow on-screen instructions to install it on your device
+
+3 - Enjoy!
